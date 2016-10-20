@@ -40,6 +40,8 @@ PLATFORMS
 DEPENDENCIES
   jekyll
   jekyll-paginate
+  jekyll-watch
+  rouge
 
 BUNDLED WITH
-   1.12.5
+   1.13.5
